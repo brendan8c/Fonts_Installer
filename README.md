@@ -29,7 +29,6 @@
 This will allow you to install all fonts in one click.<br>
 
 # How to use:
-## Ffmpeg<br>
 1) Put your fonts in Your_files folder<br>
 2) Run Install_fonts file<br>
 3) All is ready! Your fonts are now installed.<br>
@@ -48,7 +47,6 @@ And will restore any missing font registrations for fonts located in the C:\Wind
 Это позволит вам установить все шрифты в один клик.<br>
 
 # How to use:
-## Ffmpeg<br>
 1) Поместите свои шрифты в папку Your_files.<br>
 2) Запустите файл Install_fonts.<br>
 3) Все готово! Теперь ваши шрифты установлены.<br>

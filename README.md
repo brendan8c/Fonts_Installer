@@ -24,7 +24,6 @@
 
 <details>
     <summary>---------------------------------------------:us: :us: :us: ENGLISH :us: :us: :us:---------------------------------------------</summary>
-<details>
 
 # About
 This will allow you to install all fonts in one click.<br>

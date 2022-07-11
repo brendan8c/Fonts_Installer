@@ -24,7 +24,6 @@
 
 <details>
     <summary>-------------------------------------------------:us: :us: :us: ENGLISH :us: :us: :us:-------------------------------------------------</summary>
-    <br />
 <details>
     <summary>About :mag_right:</summary>
 <br>
@@ -47,7 +46,6 @@ And will restore any missing font registrations for fonts located in the C:\Wind
 
 <details>
     <summary>-------------------------------------------------:ru: :ru: :ru: RUSSIAN :ru: :ru: :ru:-------------------------------------------------</summary>
-    <br />
 <details>
     <summary>About :mag_right:</summary>
 <br>

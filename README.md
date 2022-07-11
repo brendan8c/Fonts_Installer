@@ -45,6 +45,7 @@ It will also remove all obsolete font registrations in the registry.<br>
 And will restore any missing font registrations for fonts located in the C:\Windows\Fonts directory<br>
 
 
+<details>
     <summary>-------------------------------------------------:ru: :ru: :ru: RUSSIAN :ru: :ru: :ru:-------------------------------------------------</summary>
     <br />
 <details>

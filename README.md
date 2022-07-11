@@ -39,13 +39,10 @@ The FontReg.exe utility is used.<br>
 She installs your fonts.<br>
 It will also remove all obsolete font registrations in the registry.<br>
 And will restore any missing font registrations for fonts located in the C:\Windows\Fonts directory<br>
-
+</details>
 
 <details>
     <summary>---------------------------------------------:ru: :ru: :ru: RUSSIAN :ru: :ru: :ru:---------------------------------------------</summary>
-<details>
-    <summary>About :mag_right:</summary>
-<br>
 
 # About
 Это позволит вам установить все шрифты в один клик.<br>
@@ -61,3 +58,4 @@ And will restore any missing font registrations for fonts located in the C:\Wind
 Она устанавливает ваши шрифты.<br>
 Он также удалит все устаревшие регистрации шрифтов в реестре.<br>
 И восстановит все отсутствующие регистрации шрифтов для шрифтов, расположенных в каталоге C:\Windows\Fonts<br>
+</details>
